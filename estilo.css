@@ -128,6 +128,11 @@ img{
     width: 20cm;
     padding: 0.5cm;
 }
+.contenedor-proyecto2 img{
+    height: 10cm;
+    width: 15cm;
+    padding: 0.5cm;
+}
 .contenedor-proyecto p{
     padding: 0px 0px 30px 15px;
     text-align: justify;
