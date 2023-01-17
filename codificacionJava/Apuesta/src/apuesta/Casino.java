@@ -9,8 +9,8 @@ package Apuesta;
 public class Casino {
 
     private String direccion;
-    private int juegosDisponibles;
-    private int jugadoresRegistrados;
+    private String juegosDisponibles;
+    private String jugadoresRegistrados;
     private String nombre;
     public Empleado m_Empleado;
 
