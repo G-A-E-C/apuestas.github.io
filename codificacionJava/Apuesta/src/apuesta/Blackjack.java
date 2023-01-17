@@ -16,9 +16,7 @@ public class Blackjack extends Juego {
 
     }
 
-    public void finalize() throws Throwable {
-	super.finalize();
-    }
+    
     public boolean pedirCarta(){
 	return false;
     }

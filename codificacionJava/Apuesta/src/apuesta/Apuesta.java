@@ -18,9 +18,6 @@ public class Apuesta {
 
     }
 
-    public void finalize() throws Throwable {
-
-    }
     public int cancelarApuesta(){
         return 0;
     }
@@ -28,4 +25,4 @@ public class Apuesta {
     public int realizarApuesta(){
 	return 0;
     }
-}//end Apuesta
+}
